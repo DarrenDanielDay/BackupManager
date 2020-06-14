@@ -1,0 +1,13 @@
+{
+    "currentMode": 1,
+    "dbFile": null,
+    "defaultOperation": 2,
+    "gridHeight": 100,
+    "gridWidth": 100,
+    "searchPaths": [
+        "assets"
+    ],
+    "targetPath": "C:\\Backups",
+    "xCount": 2,
+    "yCount": 2
+}
